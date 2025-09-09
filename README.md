@@ -1,5 +1,4 @@
 # Dry-Etching-Profile-Simulation 
-# Dry Etching Profile Simulation
 
 This project simulates the evolution of etch profiles in microfabrication using dry etching techniques, comparing anisotropic and isotropic etch processes.
 
