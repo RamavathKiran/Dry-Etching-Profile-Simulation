@@ -48,6 +48,18 @@ A mask opening is created in the center of the top row, and the etching process 
    - `anisotropic_etching.m` for anisotropic etching simulation
    - `isotropic_etching.m` for isotropic etching simulation
 4. The scripts will generate animations showing the etch profile evolution
+   
+## output 
+
+
+
+https://github.com/user-attachments/assets/4db37758-2755-4b09-a4d1-506d48f4a756
+
+
+
+
+https://github.com/user-attachments/assets/0934c4db-79e3-4f01-8dde-2eb9a9c810ce
+
 
 ## Dependencies
 
